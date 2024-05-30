@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UnfairAdvantageChallenge/static/css/main.f8d26905.css",
+    "main.js": "/UnfairAdvantageChallenge/static/js/main.5b587be8.js",
+    "static/js/453.06e47109.chunk.js": "/UnfairAdvantageChallenge/static/js/453.06e47109.chunk.js",
+    "index.html": "/UnfairAdvantageChallenge/index.html",
+    "main.f8d26905.css.map": "/UnfairAdvantageChallenge/static/css/main.f8d26905.css.map",
+    "main.5b587be8.js.map": "/UnfairAdvantageChallenge/static/js/main.5b587be8.js.map",
+    "453.06e47109.chunk.js.map": "/UnfairAdvantageChallenge/static/js/453.06e47109.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8d26905.css",
+    "static/js/main.5b587be8.js"
+  ]
+}
